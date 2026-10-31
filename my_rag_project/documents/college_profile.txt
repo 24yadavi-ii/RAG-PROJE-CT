@@ -1,0 +1,6 @@
+College Knowledge Base — Sample Document 1
+
+The sample college is called Sunrise College of Engineering.
+The college library is open from 9:00 AM to 5:00 PM from Monday to Friday.
+The library is closed on Sundays.
+The college help desk is located in the main administrative building.
